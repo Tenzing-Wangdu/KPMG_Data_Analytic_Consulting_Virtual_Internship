@@ -1,16 +1,16 @@
 # KPMG_Data_Analytic_Consulting_Virtual_Internship
 
-Sprocket Central Data Analyst - Read Me
+# procket Central Data Analyst - Read Me
 
-Introduction
+# Introduction
 
 Welcome to the Sprocket Central Data Analyst project! Sprocket is a client for KPMG and this is a consulting project. As a data analyst for Sprockt Central Pty Ltd, my main goal is to boost product sales by identifying target customers who can add the highest value to the company. This Read Me file will provide an overview of the project, key objectives, and the methodology used to achieve them.
 
-Company Overview
+# Company Overview
 
 Sprocket Central specializes in providing top-quality bikes and accessories to its customers. The company is committed to delivering exceptional products that cater to the needs of bike enthusiasts. To enhance sales and maximize profitability, it is crucial to gain insights into customer preferences and target the right audience.
 
-Project Objectives
+# Project Objectives
 
 The primary objectives of this project are as follows:
 
@@ -39,7 +39,7 @@ excel_files: This folder contains the Excel files used for data preparation, exp
 reports: This folder contains the final reports, insights, and visualizations generated from the analysis.
 ppt file: This folder also has a ppt presentation summarising the problems and the solutions for the client. 
 
-Conclusion
+# Conclusion
 
 By conducting a comprehensive analysis of the bike purchases data, industry contributions, and customer preferences, we aim to provide valuable insights that will help Sprocket Central boost product sales. The findings and recommendations generated from this project will guide marketing strategies, customer targeting, and overall business decisions.
 
