@@ -1,6 +1,6 @@
 # KPMG_Data_Analytic_Consulting_Virtual_Internship
 
-# procket Central Data Analyst - Read Me
+#Sprocket Central Data Analyst - Read Me
 
 # Introduction
 
